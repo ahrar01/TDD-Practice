@@ -1,7 +1,7 @@
 const chai = require("chai");
 const expect = chai.expect;
 
-const findPalindrome = require("../describe_the_a_list_is_a_palindrome");
+const findPalindrome = require("../the_a_list_is_a_palindrome");
 
 describe.only("Describe the a list is a palindrome", () => {
   context("when the list is empty", () => {

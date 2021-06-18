@@ -1,7 +1,7 @@
 const chai = require("chai");
 const expect = chai.expect;
 
-const findLastButOne = require("../describe_find_the_last_but_one_element_of_list");
+const findLastButOne = require("../find_the_last_but_one_element_of_list");
 
 
 describe.only("find last but one element in a list", () => {

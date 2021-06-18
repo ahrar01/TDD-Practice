@@ -1,7 +1,7 @@
 const chai = require("chai");
 const expect = chai.expect;
 
-const reverseList = require("../describe_reverse_a_list");
+const reverseList = require("../reverse_a_list");
 
 describe.only("Reverse the element in a list", () => {
   context("when the list is empty", () => {

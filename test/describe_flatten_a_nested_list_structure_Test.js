@@ -1,7 +1,7 @@
 const chai = require("chai");
 const expect = chai.expect;
 
-const flattenList = require("../describe_flatten_a_nested_list_structure");
+const flattenList = require("../flatten_a_nested_list_structure");
 
 describe.only("Flatten a nested list structure", () => {
   context("when the list is empty", () => {

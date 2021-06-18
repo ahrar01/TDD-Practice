@@ -1,7 +1,7 @@
 const chai = require("chai");
 const expect = chai.expect;
 
-const findLengthOfList = require("../describe_the_number_of_elements_of_a_list");
+const findLengthOfList = require("../the_number_of_elements_of_a_list");
 
 describe.only("find the Number of element in a list", () => {
   context("when the list is empty", () => {

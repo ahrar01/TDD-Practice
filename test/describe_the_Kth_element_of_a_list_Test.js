@@ -1,7 +1,7 @@
 const chai = require("chai");
 const expect = chai.expect;
 
-const findKthElement = require("../describe_the_Kth_element_of_a_list");
+const findKthElement = require("../the_Kth_element_of_a_list");
 
 
 describe.only("find Kth element in a list", () => {

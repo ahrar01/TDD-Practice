@@ -1,7 +1,7 @@
 const chai = require('chai');
 const expect = chai.expect;
 
-const findLastElement = require('../describe_find_the_last_element_in_the_list');
+const findLastElement = require('../find_the_last_element_in_the_list');
 
 describe.only('find last element in a list',()=>{
     context('when the list is empty',()=>{

@@ -1,7 +1,7 @@
 const chai = require("chai");
 const expect = chai.expect;
 
-const removeDuplicates = require("../describe_eliminate_consecutive_dublicates_of_list_elements");
+const removeDuplicates = require("../eliminate_consecutive_dublicates_of_list_elements");
 
 describe.only("Elimninate consecutive duplicates of list elements", () => {
   context("when the list is empty", () => {
